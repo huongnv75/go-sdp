@@ -1,8 +1,8 @@
-module github.com/aler9/sdp/v3
+module github.com/huongnv75/go-sdp
 
 go 1.12
 
 require (
-	github.com/pion/randutil v0.1.0
-	github.com/stretchr/testify v1.6.1
+	github.com/huongnv75/go-rand-util
+	github.com/huongnv75/go-testify
 )
